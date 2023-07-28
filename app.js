@@ -67,8 +67,3 @@ app.post("/failure", function(req, res){
 
 app.listen( process.env.PORT || 3000);
 
-// Mail Chimp 
-//    6ebb4bfb2326c874258ef70ba89e79da-us21
-
-//Audience Id
-// 55d0e57beb
